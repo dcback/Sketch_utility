@@ -1,0 +1,2 @@
+1. theme.txt file update(paste) at Arduino\lib\theme foler 
+2. default.xml file update(paste) atArduino\lib\theme\syntax folder
